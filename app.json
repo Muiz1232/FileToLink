@@ -1,7 +1,6 @@
 {
   "name": "Adarsh-",
   "description": "A Pyrogram Telegram bot to Stream Telegram files to web. @adarshgoel",
-  "stack": "container",
   "keywords": [
       "telegram",
       "stream",
